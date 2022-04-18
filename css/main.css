@@ -82,6 +82,7 @@ body {
 .banner h2,
 .banner p {
   margin: 0 0 1.5rem;
+  color: #fff;
 }
 
 .banner a {
